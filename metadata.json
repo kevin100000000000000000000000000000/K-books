@@ -1,0 +1,6 @@
+{
+  "name": "AudioBookify - EPUB to Audiobook Studio",
+  "description": "Convert EPUB ebooks into immersive audiobooks with natural AI voices, synchronized text reader, soundscapes, and audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
